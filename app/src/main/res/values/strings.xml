@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="register"><u>Do not have an account ? Register here </u></string>
+    <string name="login"><u>Login here </u></string>
+</resources>
